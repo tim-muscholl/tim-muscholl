@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tim-muscholl
 - 👀 I’m interested in machine/deep learning in python. 
-- 🌱 I’m currently learning various programming languages, such as java or c#.
-- 💞️ I’m looking to collaborate on interesting python projects.
+- 🌱 I’m currently learning various programming languages, such as python, java or c#.
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: tim.muscholl@gmail.com
 
 <!---
