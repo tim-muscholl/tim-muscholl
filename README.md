@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine/deep learning in python 
 - 🌱 Python, Javascript, Java.
 - 🌱 Fullstack
-- 📫 How to reach me: tim.muscholl@gmail.com
+- 📫 How to reach me: tim@muscholl.com
 
 <!---
 tim-muscholl/tim-muscholl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
